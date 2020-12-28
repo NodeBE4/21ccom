@@ -11,11 +11,7 @@
       </div>
 
       <nav>
-        <span id="search-container" >
-          <a href="{{ site.baseurl }}/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
-        <a><i class="fa fa-search" title="限前{{ site.searchlimit }}結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 ({{ site.posts | size }})"
-          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
-        </span>
+        <a href="{{ site.baseurl }}/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
         {% for nav in site.navigation %}
         {% if nav.url contains 'http://' or nav.url contains 'https://' %}
         <a href="{{ nav.url }}" style="color: #003366;">{{ nav.name }}</a>

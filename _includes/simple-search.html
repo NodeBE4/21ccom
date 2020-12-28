@@ -6,11 +6,11 @@
 
   <!-- Configuration -->
   <script>
-  SimpleJekyllSearch({
+  var sjs = SimpleJekyllSearch({
     searchInput: document.getElementById('search-input'),
     resultsContainer: document.getElementById('results-container'),
     json: '{{site.baseurl}}/search.json',
-    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time></li>',
     noResultsText: '没找到',
     limit: {{ site.searchlimit }},
     fuzzy: false,
