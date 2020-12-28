@@ -1,0 +1,21 @@
+name: distribute
+
+on:
+  push:
+    branches: [ master ]    
+  # schedule:
+  #   - cron:  '40 * * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout this repo
+        uses: actions/checkout@v2
+      - name: Fetch data
+        run: |
+          chmod +x ./distribute.sh
+          ./distribute.sh
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+          API_TOKEN_GITLAB: ${{ secrets.API_TOKEN_GITLAB }}
