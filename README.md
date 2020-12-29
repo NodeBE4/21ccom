@@ -22,4 +22,4 @@
 
 ### 其它社会影响力专案
 
-类似专案请参考[NodeBE4-开源影响](https://nodebe4.github.io/impact/)或[Github repo](https://github.com/NodeBE4/impact).
+类似专案请参考[NodeBE4-开源影响](https://nodebe4.github.io/impact/)及其[Github 专案仓库](https://github.com/NodeBE4/impact).
