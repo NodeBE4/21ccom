@@ -3,13 +3,11 @@ layout: page
 title: 外部链接
 permalink: /external_links/
 ---
-- http://dongxi.net/
 
+- http://dongxi.net/
 - http://www.hcworld.net/
 - http://www.ku6.com/
-
 - http://www.21fd.cn/
-
 - http://bokerb.com/
 - http://t.sina.com.cn/ccom
 - http://view.news.qq.com/
@@ -25,16 +23,12 @@ permalink: /external_links/
 
 - http://www.fadaxuebao.cn/
 - http://www.chinathinktank.cn/
-layout: page
-
 - http://www.cyol.net/
 
 - http://www.21newyouth.com/
 - http://www.loyola.edu/dept/politics/intel.html
 - http://www.e-cpcs.org/
 - http://www.ilishi.com/
-title: 外部链接
-
 - http://www.alibaba.com/showroom/car part.html
 
 - http://www.zaobao.com/
@@ -137,7 +131,6 @@ title: 外部链接
 - http://cul.sohu.com/shuoshi/
 - http://www.brookings.edu/
 - http://www.economist.com/
----
 
 - http://www.baijiajiangtan.com.cn/
 
@@ -197,8 +190,6 @@ title: 外部链接
 - http://www.wto.org/
 
 - https://www.cia.gov/library/publications/the-world-factbook/
-
-permalink: /external_links/
 
 - http://www.cfr.org/
 
