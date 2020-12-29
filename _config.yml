@@ -119,6 +119,7 @@ exclude:
   - www.21ccom.net_external_links.txt
   - www.21ccom.net_visited_records.txt
   - 21ccom_net_all.txt
+  - internal_links.txt
   - program-think.blogspot.com*
   - debug.sh
   - perform.js
