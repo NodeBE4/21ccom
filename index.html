@@ -19,6 +19,7 @@ layout: default
     <li>
       <a onclick="sjs.search('{{tag.tag}}')">
         <span>{{ tag.tag }}</span>
+        <span class="count">{{ tag.count }}</span>
       </a>
     </li>
     {% endfor %}
