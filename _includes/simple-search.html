@@ -10,7 +10,7 @@
     searchInput: document.getElementById('search-input'),
     resultsContainer: document.getElementById('results-container'),
     json: '{{site.baseurl}}/search.json',
-    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time></li>',
+    searchResultTemplate: '<li><a href="{url}" title="跳转至时光机存档" target="_blank">{title}</a><time>{date}</time></li>',
     noResultsText: '没找到',
     limit: {{ site.searchlimit }},
     fuzzy: false,
