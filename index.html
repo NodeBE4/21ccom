@@ -16,7 +16,8 @@ layout: default
 <div class="tags wrapper-masthead">
   <ul class="label">
     {% for tag in site.data.tags %}
-    {% tag.count %}
+    {% assign count = tag.count | plus: 0 %}
+    {% if count > 0 %}
     <li>
       <a onclick="sjs.search('{{tag.tag}}')">
         <span>{{ tag.tag }}</span>
