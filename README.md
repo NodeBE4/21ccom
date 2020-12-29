@@ -11,7 +11,7 @@
 摘自 [维基百科](https://zh.wikipedia.org/zh-hans/%E5%85%B1%E8%AF%86%E7%BD%91)
 
 ## 关于本专案
-本专案通过扫描[互联网档案馆 Wayback Machine](https://web.archive.org/*/http://21ccom.net)中保存的共识网2009-2016期间1793个首页快照，提取曾出现于共识网首页的部分文章链接与标题，生成可搜索的[索引数据库](/search.json)和简单的[关键词检索页面](https://nodebe4.github.io/21ccom/)，方便大家从共识网的废墟中查阅当年中文人文知识界发生过的思想碰撞。
+[本专案](https://github.com/NodeBE4/21ccom)通过扫描[互联网档案馆 Wayback Machine](https://web.archive.org/*/http://21ccom.net)中保存的共识网2009-2016期间1793个首页快照，提取曾出现于共识网首页的部分文章链接与标题，生成可搜索的[索引数据库](/search.json)和简单的[关键词检索页面](https://nodebe4.github.io/21ccom/)，方便大家从共识网的废墟中查阅当年中文人文知识界发生过的思想碰撞。
 
 互联网档案馆共保存了超过30万条共识网(21ccom.net)域名下的链接，具体参考这个[41MB的文本数据库](/21ccom_net_all.txt)。
 

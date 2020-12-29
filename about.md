@@ -6,32 +6,29 @@ hackmd: 4nD88YctROSQ69GvXD1TIw
 comments: true
 ---
 
-###### tags: `关于` `讨论`
+###### tags: `共识网` `互联网档案馆`
 
-# 这是什么？
 
-以社会、政治话题为主的文章和社交媒体上优秀Up主的评论聚合
+## 关于共识网
+>共识网（Consensus Net[3]；Consensus Web[4]）是香港《领导者》杂志旗下的简体字官方网站[5]，是一个于2009年2月20日由立德共识（北京）网络传媒科技有限公司创立的学术、思想性网站，内容涵盖政治、历史和经济题材，既有知名自由派学者，也有左派学者文章，网站宗旨为“在大变革时代寻找共识”。
+>
+>共识网于2009年7月1日正式接入国际互联网[6]，栏目包括“全球事务”、中国研究、“历史解读”以及“思想评论”等。共识网创办人周志兴[7]在2016年10月3日称，中国当局认为共识网是传递错误思想的平台，勒令关闭共识网[8][注 1]。
+>
+>注1：共识网总裁周志兴在微信上发布的消息：“当局希望我们关闭共识网，认为是传递错误思想的平台。我们无奈，准备关闭。特此报告”
+>
 
-分享短链接 https://git.io/JJCxS
+摘自 [维基百科](https://zh.wikipedia.org/zh-hans/%E5%85%B1%E8%AF%86%E7%BD%91)
 
-访问地址： <https://nodebe4.github.io/oped2/>
+## 关于本专案
+[本专案](https://github.com/NodeBE4/21ccom)通过扫描[互联网档案馆 Wayback Machine](https://web.archive.org/*/http://21ccom.net)中保存的共识网2009-2016期间1793个首页快照，提取曾出现于共识网首页的部分文章链接与标题，生成可搜索的[索引数据库](/search.json)和简单的[关键词检索页面](https://nodebe4.github.io/21ccom/)，方便大家从共识网的废墟中查阅当年中文人文知识界发生过的思想碰撞。
 
-每篇文章搜集被跟踪的评论者每一周的言论，每小时自动更新一次。例如：[u/Spinkcat在2020-06-01~2020-06-07的言论](https://nodebe4.github.io/opinion/Spinkcat-2020-06-07)
+互联网档案馆共保存了超过30万条共识网(21ccom.net)域名下的链接，具体参考这个[41MB的文本数据库](/21ccom_net_all.txt)。
 
-与reddit本身[按发言时间倒序排列的方式](https://www.reddit.com/user/Spinkcat/)不同，这个网站是按照主贴的发布时间排序，将同一个主贴下的评论按照 **从旧到新** 的顺序排列，更符合阅读习惯。而且按照主贴产生目录，有类似2049bbs的回到顶部的快捷按钮。
+本站所提供的索引内容只是其中一小部分，每个索引链接指向互联网档案馆的网页存档。
 
-### 支持RSS订阅
+如果您有兴趣，欢迎利用[Wayback Machine API](https://archive.org/help/wayback_api.php)对本站索引作补充完善。
 
-<https://nodebe4.github.io/opinion/feed.xml>
 
-### 支持离线阅读
+### 其它社会影响力专案
 
--   下载仓库，`git clone https://github.com/NodeBE4/oped2.git`
--   安装jekyll, [官方安装教程](https://jekyllrb.com/docs/installation/)
--   运行`jekyll serve`或 `bundle exec jekyll serve`
--   打开 http://127.0.0.1:4000/opinion
--  从github同步 `git pull`
-
-### 期待更多UP主
-
-欢迎大家到[NodeBE4](https://be4.herokuapp.com/topic/520/)或[Github](https://github.com/NodeBE4/opinion/issues/1)推荐其他redditor.
+类似专案请参考[NodeBE4-开源影响](https://nodebe4.github.io/impact/)及其[Github 专案仓库](https://github.com/NodeBE4/impact).
