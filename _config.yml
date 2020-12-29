@@ -31,7 +31,7 @@ navigation:
 # Pagination
 paginate: 50
 
-searchlimit: 500
+searchlimit: 5000
 
 # Includes an icon in the footer for each username you enter
 footer-links:
