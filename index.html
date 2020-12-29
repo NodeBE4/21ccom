@@ -16,12 +16,14 @@ layout: default
 <div class="tags wrapper-masthead">
   <ul class="label">
     {% for tag in site.data.tags %}
+    {% tag.count %}
     <li>
       <a onclick="sjs.search('{{tag.tag}}')">
         <span>{{ tag.tag }}</span>
         <span class="count">{{ tag.count }}</span>
       </a>
     </li>
+    {% endif %}
     {% endfor %}
   </ul>
 </div>
