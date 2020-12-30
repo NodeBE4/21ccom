@@ -607,6 +607,7 @@ a.tag {
         padding: .5px 5px;
 
         &.count {
+          color: $oc-indigo-3;
           background-color: $tag-index-count-background-color;
           border-radius: 0 3px 3px 0;
         }
