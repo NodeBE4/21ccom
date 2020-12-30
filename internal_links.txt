@@ -29469,7 +29469,6 @@ html/2016/gqmq_0427/3682.html
 html/2016/zhongxi_0424/3595.html
 html/2016/ggzl_0426/3655.html
 html/2016/bjzd_0427/3711.html
-https://web.archive.org/web/20130930003933/blog.21ccom.net
 html/2016/yingshi_0314/2417.html
 html/2016/gudai_0314/2395.html
 html/2016/bjzd_0314/2415.html
@@ -29481,7 +29480,6 @@ html/2016/yingshi_0314/2422.html
 html/2016/ggqz_0314/2418.html
 html/2016/zhoushuo_0311/2353.html
 html/2016/gediao_0314/2396.html
-index.php?m=poster&c=index&a=poster_click&sitespaceid=1&id=11&url=http%3A%2F%2Fwww.21ccom.net%2Fhtml%2F2015%2Fhyhd_1228%2F216.html
 html/2016/gqmq_0311/2379.html
 html/2016/ggqz_0311/2366.html
 html/2016/gqmq_0311/2363.html
@@ -29498,7 +29496,6 @@ html/2016/zlwj_0314/2425.html
 html/2016/qqgc_0314/2404.html
 html/2016/qqgc_0311/2375.html
 html/2016/qqgc_0311/2354.html
-index.php?m=poster&c=index&a=poster_click&sitespaceid=1&id=12&url=http%3A%2F%2Fwww.21ccom.net%2Fspecial%2Fapppc%2F
 html/2016/pinglun_0314/2416.html
 html/2016/pinglun_0314/2412.html
 html/2016/edu_0314/2407.html
@@ -29511,7 +29508,6 @@ html/2016/minjian_0314/2414.html
 ?p=259
 ?p=285
 ?p=376
-index.php?m=poster&c=index&a=poster_click&sitespaceid=1&id=13&url=http%3A%2F%2Fwww.1xuezhe.com%2Fadvertising%2FIndex4
 html/2016/shuxun_0314/2398.html
 html/2016/shuxun_0311/2380.html
 html/2016/gqmq_0313/2393.html
@@ -29529,7 +29525,6 @@ html/2016/bianyan_0710/5599.html
 html/2016/bianyan_0709/5597.html
 html/2016/zhoushuo_0706/5531.html
 html/2016/gediao_0702/5322.html
-index.php?m=poster&c=index&a=poster_click&sitespaceid=1&id=11&url=http%3A%2F%2Fwww.modouyu.net%2F
 html/2016/gqmq_0707/5568.html
 html/2016/ggzl_0707/5563.html
 html/2016/ggzl_0708/5588.html
@@ -29566,7 +29561,6 @@ html/2016/bihui_0707/5552.html
 html/2016/bihui_0708/5584.html
 html/2016/bihui_0708/5583.html
 html/2016/bihui_0707/5553.html
-https://web.archive.org/web/20160710133851/http://www.21ccom.net:80/javascript:void(0)
 ?p=309
 ?p=260
 ?p=183
@@ -29576,3 +29570,5 @@ html/2016/zlwj_0709/5594.html
 html/2016/bjzd_0709/5598.html
 html/2016/zjds_0708/5573.html
 html/2016/jindai_0705/5502.html
+html/2016/zjds_0304/2151.html
+html/2016/bjzd_0304/2148.html
