@@ -29572,8 +29572,6 @@ html/2016/zjds_0708/5573.html
 html/2016/jindai_0705/5502.html
 html/2016/zjds_0304/2151.html
 html/2016/bjzd_0304/2148.html
-https://web.archive.org/web/20131024084718/blog.21ccom.net
-https://web.archive.org/web/20131024000107/blog.21ccom.net
 html/2016/edu_0816/6754.html
 html/2016/edu_0815/6725.html
 html/2016/qqgc_0816/6733.html
@@ -29585,7 +29583,6 @@ html/2016/qqgc_0817/6790.html
 html/2016/bjzd_0816/6752.html
 html/2016/zlwj_0815/6713.html
 html/2016/zhoushuo_0815/6711.html
-index.php?m=poster&c=index&a=poster_click&sitespaceid=1&id=11&url=http%3A%2F%2Fwww.modouyu.net%2F
 html/2016/qqgc_0817/6762.html
 html/2016/qqgc_0817/6779.html
 html/2016/zlwj_0817/6786.html
@@ -29604,14 +29601,12 @@ html/2016/yingshi_0817/6776.html
 html/2016/dushu_0817/6784.html
 html/2016/dushu_0817/6781.html
 html/2016/yingshi_0817/6769.html
-index.php?m=poster&c=index&a=poster_click&sitespaceid=1&id=12&url=http%3A%2F%2Fwww.21ccom.net%2Fspecial%2Fapppc%2F
 html/2016/pinglun_0817/6773.html
 html/2016/bihui_0816/6753.html
 html/2016/bihui_0815/6710.html
 html/2016/bihui_0815/6690.html
 html/2016/bihui_0815/6683.html
 html/2016/zhongxi_0813/6676.html
-https://web.archive.org/web/20160817124140/http://www.21ccom.net:80/javascript:void(0)
 html/2016/shuxun_0817/6764.html
 html/2016/shuxun_0812/6647.html
 ?p=339
