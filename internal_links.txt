@@ -29618,7 +29618,6 @@ html/2016/zjds_0815/6692.html
 html/2016/edu_0815/6694.html
 html/2016/zlwj_0815/6712.html
 html/2016/dushu_0815/6697.html
-https://web.archive.org/web/20130929003630/blog.21ccom.net
 html/2016/zjds_0613/4923.html
 html/2016/qqgs_0612/4883.html
 html/2016/gqmq_0611/4868.html
@@ -29632,7 +29631,6 @@ html/2016/zjds_0613/4927.html
 html/2016/dushu_0613/4924.html
 html/2016/kanlun_0530/4624.html
 html/2016/zhoushuo_0612/4875.html
-index.php?m=poster&c=index&a=poster_click&sitespaceid=1&id=11&url=http%3A%2F%2Fwww.modouyu.net%2F
 html/2016/gqmq_0613/4914.html
 html/2016/ggzl_0612/4893.html
 html/2016/ggzl_0613/4928.html
@@ -29650,7 +29648,6 @@ html/2016/qqgc_0613/4912.html
 html/2016/qqgc_0613/4929.html
 html/2016/qqgc_0613/4918.html
 html/2016/qqgc_0613/4915.html
-index.php?m=poster&c=index&a=poster_click&sitespaceid=1&id=12&url=http%3A%2F%2Fwww.21ccom.net%2Fspecial%2Fapppc%2F
 html/2016/mjyx_0612/4898.html
 html/2016/ggys_0608/4818.html
 html/2016/dushu_0613/4904.html
@@ -29668,10 +29665,8 @@ html/2016/bihui_0612/4892.html
 html/2016/bihui_0612/4885.html
 html/2016/xmt_0601/4678.html
 html/2016/xmt_0530/4618.html
-https://web.archive.org/web/20160613083642/http://www.21ccom.net:80/javascript:void(0)
 ?p=455
 ?p=261
-index.php?m=poster&c=index&a=poster_click&sitespaceid=1&id=13&url=http%3A%2F%2Fwww.1xuezhe.com%2Fadvertising%2FIndex4
 html/2016/shuxun_0608/4833.html
 html/2016/shuxun_0604/4752.html
 html/2016/xiandai_0612/4886.html
