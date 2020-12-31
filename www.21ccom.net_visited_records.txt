@@ -672,3 +672,4 @@ https://web.archive.org/web/20130714115642/http://www.21ccom.net/
 https://web.archive.org/web/20130711024713/http://www.21ccom.net/
 https://web.archive.org/web/20130929003630/http://www.21ccom.net/
 https://web.archive.org/web/20160613083642/http://www.21ccom.net:80/
+https://web.archive.org/web/20131002004712/http://www.21ccom.net/
