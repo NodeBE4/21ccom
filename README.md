@@ -10,6 +10,8 @@
 
 摘自 [维基百科](https://zh.wikipedia.org/zh-hans/%E5%85%B1%E8%AF%86%E7%BD%91)
 
+![ 共識網2012年2月9日首頁 https://web.archive.org/web/20120209180915/http://www.21ccom.net/ ](https://assets.matters.news/processed/1080w/embed/a6ae9bfb-d372-4459-88cd-214e58c40d92.webp)
+
 ## 关于本专案
 [本专案](https://github.com/NodeBE4/21ccom)通过扫描[互联网档案馆 Wayback Machine](https://web.archive.org/*/http://21ccom.net)中保存的共识网2009-2016期间1793个首页快照，提取曾出现于共识网首页的部分文章链接与标题，生成可搜索的[索引数据库](/search.json)和简单的[关键词检索页面](https://nodebe4.github.io/21ccom/)，方便大家从共识网的废墟中查阅当年中文人文知识界发生过的思想碰撞。
 
@@ -19,6 +21,7 @@
 
 欢迎利用[Wayback Machine API](https://archive.org/help/wayback_api.php)对本站索引作补充完善。
 
+![共識網-互聯網檔案館索引專案首頁截圖](https://assets.matters.news/processed/1080w/embed/8c8f5317-b409-40c7-952f-5cc5fc6fc9f6.webp)
 
 ### 其它社会影响力专案
 
