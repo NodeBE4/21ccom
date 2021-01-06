@@ -10,7 +10,7 @@
     searchInput: document.getElementById('search-input'),
     resultsContainer: document.getElementById('results-container'),
     json: '{{site.baseurl}}/search.json',
-    searchResultTemplate: '<li><a href="{url}" title="跳转至时光机存档" target="_blank">{title}</a><time>{date}</time></li>',
+    searchResultTemplate: '<li><a href="{url}" title="跳转至时光机存档" target="_blank">{title}</a><span style="float:right;"><time>{date}</time>&nbsp;&nbsp;&nbsp; <a href="https://www.runnaroo.com/search?term={title}" title="在互联网上搜索本文" target="_blank"><img src="https://www.runnaroo.com/img/small_logo.svg" width="15px" style="display: inline-block" /></a></span></li>',
     noResultsText: '没找到',
     limit: {{ site.searchlimit }},
     fuzzy: false,
