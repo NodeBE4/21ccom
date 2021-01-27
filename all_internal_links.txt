@@ -52837,3 +52837,14 @@ newsinfo.asp?id=8301&cid=10360000
 plus/view.php?aid=182
 articles/qqsw/zlwj/article_2010110323558.html
 articles/read/article_2011041433543.html
+articles/zgyj/gqmq/2011/0601/36646.html
+articles/zgyj/ggcx/article_2012072464288_2.html
+articles/qqsw/qyyj/article_2013011474969_2.html
+articles/dlpl/szpl/2011/1225/article_50861.html
+articles/sxpl/pl/article_201005149482.html
+articles/rwcq/article_2011041433528.html
+plus/search.php?typeid=11&keyword=%E5%BC%A0%E7%94%9F&starttime=-1&channeltype=-1&orderby=sortrank&kwtype=1
+articles/sxpl/pl/article_2011061037228.html
+plus/list.php?tid=68&TotalResult=37&PageNo=1
+articles/sxpl/pl/article_2011033132598.html
+articles/thought/bianyan/20151109130349.html
